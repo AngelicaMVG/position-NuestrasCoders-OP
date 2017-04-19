@@ -1,0 +1,51 @@
+body {
+  background-image: url(https://images4.alphacoders.com/711/thumb-1920-711367.jpg);
+  background-position: right;
+}
+
+header {
+  color: red;
+  font-family: fantasy;
+  display: inline-flex;
+  height: 100px;
+  margin-left: 450px;
+}
+
+.border {
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.smaller-image {
+    width: 200px;
+}
+
+#imagenes1, #imagenes2 {
+  display: inline-flex;
+  margin-left: 4%;
+  margin-top: 0%;
+}
+
+section div img {
+  width: 150px;
+  height: 200px;
+  margin: 70px;;
+  border: 2px solid black;
+}
+ section div:hover {
+  transform: scale(2) translate(0px);
+}
+
+div span {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: -100px;
+  color: #000;
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+body {
+  cursor: url(http://cur.cursors-4u.net/anime/ani-12/ani1151.ani), url(http://cur.cursors-4u.net/anime/ani-12/ani1151.gif), progress !important;}
+}
