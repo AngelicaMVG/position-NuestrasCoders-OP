@@ -1,6 +1,7 @@
 body {
   background-image: url(https://images4.alphacoders.com/711/thumb-1920-711367.jpg);
   background-position: right;
+  background-repeat: no-repeat;
 }
 
 header {
