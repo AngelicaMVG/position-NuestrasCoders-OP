@@ -37,6 +37,9 @@ section div img {
  section div:hover {
   transform: scale(2) translate(0px);
 }
+section div{
+  transition: transform .3s;
+}
 
 div span {
   position: absolute;
